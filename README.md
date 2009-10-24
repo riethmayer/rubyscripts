@@ -14,7 +14,9 @@ This small project should just hold a few convenience methods, like
 
     rake install
 
-# Recent changes
+# Changes
 
-##  2009-10-23
+ *  2009-10-23:
+  -  generator for rubyscripts
+  -  treesurgeon for ruby programs
 
